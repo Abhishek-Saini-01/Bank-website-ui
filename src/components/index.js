@@ -1,4 +1,4 @@
-import NavBar from "./Navbar";
+import NavBar from "./NavBar";
 import Billing from "./Billing";
 import CardDeal from "./CardDeal";
 import Business from "./Business";
